@@ -62,6 +62,3 @@ src/
 - Consistent code formatting
 - Modern React patterns and hooks
 
-## License
-
-MIT
