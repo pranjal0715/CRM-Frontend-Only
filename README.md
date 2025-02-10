@@ -1,6 +1,6 @@
 # CRM Pro Dashboard
 
-A modern, responsive Customer Relationship Management (CRM) dashboard built with React, TypeScript, and Tailwind CSS.
+A modern & responsive Customer Relationship Management (CRM) dashboard built with React, TypeScript, and Tailwind CSS.
 
 ## Features
 
