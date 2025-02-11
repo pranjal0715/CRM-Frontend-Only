@@ -2,7 +2,7 @@
 
 A modern & responsive Customer Relationship Management (CRM) dashboard built with React, TypeScript, and Tailwind CSS.
 
-![Fusion Flavors Menu](assets/hero.png)
+![Fusion Flavors Menu](assets/hero.png) 
 
 ## Features
 
